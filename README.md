@@ -14,7 +14,7 @@ My Favorite:  🐍 **P Y T H O N** 🐍 <br>
 | Status| 🔥 My 2024 Mission Task! 🔥|
 | ----------- | ----------- |
 | ❎ | Mastering C++  |
-| ❎ | Mastering Java |
+| ❎ | Mastering Javascript/Typescript |
 | ✅ | Falling in love with u 💖
 
 
