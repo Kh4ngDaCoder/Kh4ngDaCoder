@@ -6,7 +6,7 @@
 
 | Some languages that I know |
 | ----------- |
-😺 **Scratch** 😺 (jk im mastered it in 5th grade) <br> | 
+😺 **Scratch** 😺 (jk i mastered it in 5th grade) <br> | 
 🟦 **Pascal** 🟦(Bro it's from 1983. Why's my school still studying it?)<br>
 🖥️ **Html** 🖥(uhh... Just the .html file, that's all i can do...)
 My Favorite:  🐍 **P Y T H O N** 🐍 <br>
